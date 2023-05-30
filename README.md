@@ -1,6 +1,6 @@
 AGH University of Science and Technology in Cracow
 
-MSc Data Science Project
+MSc Data Science Projects
 
 Visualization of Large Data Sets Course
 
